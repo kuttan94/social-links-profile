@@ -16,8 +16,6 @@ This is a solution to the [Social links profile challenge on Frontend Mentor](ht
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
-
 ## Overview
 
 ### The challenge
@@ -28,15 +26,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
-
-Add a screenshot of your solution. The easiest way to do this is to use Firefox to view your project, right-click the page and select "Take a Screenshot". You can choose either a full-height screenshot or a cropped one based on how long the page is. If it's very long, it might be best to crop it.
-
-
 ### Links
-
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 ## My process
 [Discovery]
@@ -47,18 +37,14 @@ Add a screenshot of your solution. The easiest way to do this is to use Firefox 
 4. I think I'm also going to use classes for buttons as they appear to look the same with the same hover properties.
 
 [Build]
-(16-MAR-2025)
-
-
-
+(25-MAR-2025)
+I had a bit of a break. But I'm back. Finished building this out today and added some learnings to the readme.
 
 ### Built with
 
 - HTML5
 - CSS3
 - Flexbox
-
-**Note: These are just examples. Delete this note and replace the list above with your own choices**
 
 ### What I learned
 
@@ -77,10 +63,6 @@ By default the items within a flex box will not flex to fill the size of the fle
 Additionally, items within a flex box with take up the size of the content in the cross-axis direction, unless explicitly stated by using something like align-items: stretch or width: 100% (if flex direction was column);
 
 ### Continued development
-
-Use this section to outline areas that you want to continue focusing on in future projects. These could be concepts you're still not completely comfortable with or techniques you found useful that you want to refine and perfect.
-
-**Note: Delete this note and the content within this section and replace with your own plans for continued development.**
 
 ### Useful resources
 
